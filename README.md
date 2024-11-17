@@ -1,6 +1,6 @@
 # 🕵️‍♂️ **ProxyBack-Tool** 🌐
 
-![ProxyBack-Tool](https://media.discordapp.net/attachments/1304916161355317268/1307811589373825056/image.png?ex=673ba9f4&is=673a5874&hm=5efff4d39dc5f8c6ef746cb5955b4c0ae76511cf7061d89f09e103d10e95f4ca&=&format=webp&quality=lossless&width=550&height=293)
+![ProxyBack-Tool](https://media.discordapp.net/attachments/1304916161355317268/1307812882515230740/image.png?ex=673bab29&is=673a59a9&hm=8e29d6b192dfaca844a9f8b2208e3b1cce4d6472a147cb18df674d90cfb01987&=&format=webp&quality=lossless)
 
 **ProxyBack-Tool** est un outil conçu pour scraper et vérifier des proxys publics. Il récupère des proxys depuis des sites en ligne, puis teste leur validité. Cela permet de filtrer les proxys qui fonctionnent réellement et de les sauvegarder pour une utilisation future.
 
